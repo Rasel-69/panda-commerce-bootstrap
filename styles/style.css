@@ -10,4 +10,17 @@
     border-radius: 8px;
     padding: 9px 25px;
     border: none;
+    font-weight: 600;
+    transition: 1s;
+}
+.panda-btn-buy-now:hover{
+    transform: translate(-2px, -3px);
+    box-shadow: -3px 3px  10px gray;
+}
+.panda-col{
+    transition: 1s;
+}
+.panda-col:hover{
+    transform:  translate(-2px, -5px);
+    
 }
